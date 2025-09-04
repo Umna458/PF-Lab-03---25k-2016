@@ -10,3 +10,8 @@ My clone repository
 -Simon
  *Mirza
   +Usman
+#bold statement
+**Hello, it is a wonderful day today!**
+
+#italic statement
+***confidental information - proceed cautiously***
